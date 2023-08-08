@@ -8,5 +8,6 @@ i couldnt get https://github.com/toshinari123/b0xx-joycontrol this working so i 
 4. use https://github.com/Poohl/joycontrol this in vm / linux to connect to switch
 5. open joycondroid and pro controller
 6. connect android to pc via usb and run script written in https://github.com/barry-ran/QtScrcpy (said script will convert key combinations to touchscreen touches)
+7. looks like qtscrcpy don support key combinations so i just have to write a ahk that press another key once a specific key combination is met
 
 wow very simple and elegant
