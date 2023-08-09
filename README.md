@@ -19,5 +19,5 @@ Scratch the above, cant get qtscrcpy working, dont know how to write custom ui f
 3. same as above
 4. same as above
 5. same as above
-6. connect a physical keyboard to the phone (any way, including OTG ot bluetooth or through wifi)
+6. connect a physical keyboard to the phone (any way, including OTG or bluetooth, i used scrcpy)
 7. run the automate (an android app) script
