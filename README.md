@@ -11,3 +11,13 @@ i couldnt get https://github.com/toshinari123/b0xx-joycontrol this working so i 
 7. looks like qtscrcpy don support key combinations so i just have to write a ahk that press another key once a specific key combination is met
 
 wow very simple and elegant
+
+Scratch the above, cant get qtscrcpy working, dont know how to write custom ui for joycondroid either; new plan:
+
+1. same as above
+2. same as above
+3. same as above
+4. same as above
+5. same as above
+6. connect a physical keyboard to the phone (any way, including OTG ot bluetooth or through wifi)
+7. run the automate (an android app) script
